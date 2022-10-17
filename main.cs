@@ -19,5 +19,6 @@ class Program
 
         //this function prints the result
         Console.WriteLine("Area of triangle is : " + (baseInfo * heightInfo) / 2);
+        Console.WriteLine("\n done.");
     }
 }
